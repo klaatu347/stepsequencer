@@ -1,4 +1,4 @@
-
+int togglePinAssignment = 20;
 int tempo = 0;
 int ledArray[4] = {29, 30, 31, 32};
 int buttonArray [4] = { 39, 38, 37, 36 };
